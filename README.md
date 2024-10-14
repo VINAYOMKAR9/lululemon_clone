@@ -1,1 +1,1 @@
-# lululemon_clone
+# lululemon-clone
